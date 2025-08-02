@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a> Hi there, I'm Akhilesh!</h1>
+  <img src="Header.png" alt="Header Image" />
   <h3>A dedicated Software Developer crafting dynamic, database-driven applications.</h3>
 </div>
 
