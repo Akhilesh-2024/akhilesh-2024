@@ -1,10 +1,10 @@
 <div align="center">
   <h1><a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a> Hi there, I'm Akhilesh!</h1>
-  <h3>A dedicated MERN Stack Developer crafting dynamic, database-driven applications.</h3>
+  <h3>A dedicated Software Developer crafting dynamic, database-driven applications.</h3>
 </div>
 
 <p align="center">
-  I enjoy building meaningful tools and interfaces—from admin panels to customer-facing dashboards—that solve real business problems.
+  Eager to contribute to cutting-edge projects and grow as a developer while laying the foundation for a long-term career in AI Development and Quantum Computing, where I aim to merge software engineering with next-generation technologies to drive innovation and solve complex real-world problems.
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 * 🌱 Currently diving deep into **AI, Machine Learning**, and **Quantum Computing**.
-* 🔭 Actively working on **invoice automation tools** and **full-stack admin dashboards**.
+* 🔭 Actively working on **User-Centric Web Applications** and **Full-Stack Applications**.
 * 💬 Ask me about the **MERN Stack**, **REST APIs**, and **database design**.
 * 📫 How to reach me: **akhilesh0222r@gmail.com**
 
