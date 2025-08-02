@@ -96,11 +96,3 @@ I work with a variety of technologies across the stack. Here are the tools and l
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Akhilesh-2024&icon=1&color=1" alt="Visitor Count"/>
-  </a>
-</p>
