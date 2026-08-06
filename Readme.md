@@ -13,7 +13,7 @@
 
 - 🌱 Currently diving deep into **Generative AI, LLMs, RAG, and Quantum Computing**.
 - 🔭 Actively working on **Enterprise SaaS Platforms, Full-Stack Applications, and AI-Powered Solutions**.
-- 💬 Ask me about **Java, Spring Boot, React, System Design, Data Pipelines, and Cloud Architecture**.
+- 💬 Ask me about **Python, Java, Spring Boot, React, System Design, Data Pipelines, and Cloud Architecture**.
 - 📫 How to reach me: **akhiljadhav5151@gmail.com**
 - 🌐 Portfolio: **akhileshjadhav.me**
 
