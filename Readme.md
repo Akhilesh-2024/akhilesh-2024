@@ -1,6 +1,5 @@
 <div align="center">
   <img src="Header.png" alt="Header Image" width="100%" />
-  <h2>Akhilesh Jadhav</h2>
   <h3>Software Engineer | Full-Stack & Backend Engineer | AI/ML Engineer | Data & Cloud Architecture</h3>
 </div>
 
