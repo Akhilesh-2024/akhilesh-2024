@@ -15,7 +15,7 @@
 - 🔭 Actively working on **Enterprise SaaS Platforms, Full-Stack Applications, and AI-Powered Solutions**.
 - 💬 Ask me about **Python, Java, Spring Boot, React, System Design, Data Pipelines, and Cloud Architecture**.
 - 📫 How to reach me: **akhiljadhav5151@gmail.com**
-- 🌐 Portfolio: **akhileshjadhav.me**
+- 🌐 Portfolio: **www.akhileshjadhav.me**
 
 ---
 
