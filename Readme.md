@@ -96,14 +96,15 @@
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| **Vertex Portal** | SaaS-style live coding interview platform with secure authentication, 1-on-1 video interviews, real-time chat, code execution, analytics dashboard, and interview workflow management. | React, Node.js, Express, MongoDB, Stream SDK, Piston API, Inngest |
-| **Quantum Image Encryption** | Research project implementing hybrid quantum image encryption using DNA encoding, chaotic permutation, CNOT gates, and fingerprinting with comprehensive security analysis. | Python, Qiskit, Streamlit, IBM Quantum, NumPy |
-| **AR Visionary** | Enterprise restaurant management platform featuring orders, CRM, inventory, billing, subscriptions, analytics, and role-based access control. | Java, Spring Boot, React, Redux, MySQL, AWS S3 |
-| **AdSnap Studio** | AI-powered ad generation platform supporting HD image generation, packshots, lifestyle shots, generative fill, and image editing using Bria AI APIs. | Python, Streamlit, Bria AI API, Pillow, NumPy |
-| **Multithreaded HTTP Proxy Server** | High-performance Java HTTP proxy with LRU caching, sliding-window rate limiting, concurrent request processing, and real-time metrics. | Java, Socket Programming, Concurrency, ExecutorService |
-| **FastMCP + LangGraph Demo** | Terminal-based MCP demo connecting a FastMCP server to a LangGraph ReAct agent with tool orchestration, web search, and multi-step reasoning. | Python, FastMCP, LangGraph, OpenAI API, Tavily |
-| **NEAT Self-Driving Car Simulation** | Autonomous self-driving car simulation where neural networks evolve using NEAT to navigate a race track through reinforcement-free neuroevolution. | Python, NEAT-Python, Pygame CE |
-| **AI Image Generator** | Web application that converts text prompts into AI-generated images using Hugging Face models with an intuitive user interface. | JavaScript, Hugging Face API |
+| **Vertex Portal** | Full-stack live coding interview platform with 1-on-1 video interviews, secure authentication, real-time chat, code execution, analytics, and interview workflows. | React, Node.js, Express, MongoDB, Stream SDK, Piston API, Inngest |
+| **Quantum Image Encryption** | Research project implementing hybrid quantum image encryption using DNA encoding, chaotic permutation, CNOT gates, fingerprinting, and security analysis. | Python, Qiskit, Streamlit, IBM Quantum, NumPy |
+| **End-to-End Banking Analytics** | End-to-end banking analytics platform for customer behavior analysis, suspicious transaction detection, credit-risk prediction, and interactive dashboards. | Python, SQL, Machine Learning, Streamlit, Data Visualization |
+| **AR Visionary** | Enterprise restaurant management platform with ordering, CRM, inventory, billing, subscriptions, analytics, and role-based access control. | Java, Spring Boot, React, Redux, MySQL, AWS S3 |
+| **AdSnap Studio** | AI-powered advertising platform for generating HD ads, packshots, lifestyle images, generative fills, and image edits. | Python, Streamlit, Bria AI API, Pillow, NumPy |
+| **Energy Marketplace DApp** | Decentralized energy marketplace enabling energy tokenization, NFT-based trading, ETH transactions, rewards, and asset bridging to Base. | Java, Blockchain, NFTs, Ethereum, Base |
+| **Multithreaded HTTP Proxy Server** | High-performance Java HTTP proxy implementing LRU caching, rate limiting, concurrent request processing, and real-time metrics. | Java, Socket Programming, Concurrency, ExecutorService |
+| **Taxi Route Optimization with RL** | Q-Learning agent trained on Gymnasium’s Taxi environment with performance analysis and visualization of learned behavior. | Python, Gymnasium, Q-Learning, NumPy |
+| **Efficient AI with PyTorch** | CIFAR-10 image classification using a pretrained DeiT-Tiny Vision Transformer with a comparison of SGD, Adam, and AdamW optimizers. | PyTorch, Transformers, Accelerate, Hugging Face |
 ---
 
 ### 🤝 Let's Connect
